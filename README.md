@@ -1,1 +1,1 @@
-# Word Counter - CodeAlpha_Intership_Task1
+# Word Counter - CodeAlpha_Intership_Task
